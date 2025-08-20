@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+*.egg-info/
+.ipynb_checkpoints/
+# macOS
+.DS_Store
+# Data / outputs
+data/
+runs/
+checkpoints/
+
