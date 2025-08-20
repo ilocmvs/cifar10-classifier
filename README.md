@@ -1,9 +1,6 @@
 # cifar10-classifier
 AI project#1
 
-Here’s a full **README.md** draft you can drop into your repo and commit right away.
-It includes: project intro, environment matrix, Mac/Windows setup, troubleshooting, and quick start.
-
 ````markdown
 # CIFAR-10 Classifier
 
